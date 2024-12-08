@@ -2,7 +2,7 @@
 
 # <p align=center> <p align=center>Software Engineering Student @ISEP</p><p align=center>Network Engineer Student @ISEPACADEMY</p></p>
 
-### <p align=center><a align=center href="https://francisc-o-liveira.github.io/">Check My Work</a></p>
+### <p align=center><a align=center href="https://linktr.ee/francisc_o_liveira">Check My Work</a></p>
 
 # Technologies
 
