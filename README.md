@@ -1,6 +1,6 @@
 # <p align="center">👋 Welcome to my profile 👋</p>
 
-# <p align=center> <p align=center>Software Engineering Student @ISEP</p><p align=center>Network Engineer Student @ISEPACADEMY</p><p align=center>Secure Network Architect Student @C-Academy</p></p>
+# <p align=center> <p align=center>Software Engineering Student @ISEP</p><p align=center>Network Engineer Student @ISEPACADEMY</p><p align=center>CCNA Certified @ISEPACADEMY</p><p align=center>FCP Certified @ISEPACADEMY</p><p align=center>Secure Network Architect Student @C-Academy</p></p>
 
 ### <p align=center><a align=center href="https://linktr.ee/francisc_o_liveira">Check Me</a></p>
 
